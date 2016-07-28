@@ -1,0 +1,29 @@
+{
+  "name": "rip-out",
+  "version": "1.0.0",
+  "description": "Clone an object and rip out unwanted properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/3rd-Eden/rip-out.git"
+  },
+  "keywords": [
+    "rip-out",
+    "object",
+    "remove",
+    "properties"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3rd-Eden/rip-out/issues"
+  },
+  "homepage": "https://github.com/3rd-Eden/rip-out#readme",
+  "devDependencies": {
+    "assume": "1.4.1",
+    "mocha": "2.5.3"
+  }
+}
