@@ -24,6 +24,6 @@
   "homepage": "https://github.com/3rd-Eden/rip-out#readme",
   "devDependencies": {
     "assume": "1.5.1",
-    "mocha": "3.3.0"
+    "mocha": "3.4.2"
   }
 }
